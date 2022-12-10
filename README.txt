@@ -1,44 +1,34 @@
-Directory Structure
--------------------
-css\              - Stylesheets CSS files for the template.
-images\           - Images used in template.
-scripts\          - JavaScript used in the template.
-styles\           - SCSS source files for stylesheets CSS. Available in Purchased versions only.
-favicon.ico       - Favicon placeholder provided for the template.
-index.html        - Main HTML page to open the template in browser.
-*.html            - Additional HTML pages (if any).
-LICENSE-*.txt     - License file as per your downloaded variant.
+Font Awesome Free License
+-------------------------
 
-How to Edit the template
-------------------------
+Font Awesome Free is free, open source, and GPL friendly. You can use it for
+commercial projects, open source projects, or really almost whatever you want.
+Full Font Awesome Free license: https://fontawesome.com/license/free.
 
-1. Editing Content in template
+# Icons: CC BY 4.0 License (https://creativecommons.org/licenses/by/4.0/)
+In the Font Awesome Free download, the CC BY 4.0 license applies to all icons
+packaged as SVG and JS file types.
 
-To edit the content open the corresponding *.html files and open them
-in an editor such as VSCode or Notepad++.
-Search for the content you want to change and edit it to the text you want.
-Save the file and reopen HTML file in browser to see the changes.
+# Fonts: SIL OFL 1.1 License (https://scripts.sil.org/OFL)
+In the Font Awesome Free download, the SIL OFL license applies to all icons
+packaged as web and desktop font files.
 
-2. Editing Styles of template
+# Code: MIT License (https://opensource.org/licenses/MIT)
+In the Font Awesome Free download, the MIT license applies to all non-font and
+non-icon files.
 
-The main style is present in css\main.css which you can edit.
-You must know how to edit CSS files to do this.
-If you have purchased any of the premium version then you will also get
-SCSS source files which generates all the styles of the template.
-You can use these SCSS files to make your changes and regenerate CSS.
+# Attribution
+Attribution is required by MIT, SIL OFL, and CC BY licenses. Downloaded Font
+Awesome Free files already contain embedded comments with sufficient
+attribution, so you shouldn't need to do anything additional when using these
+files normally.
 
-3. Changing Images
+We've kept attribution comments terse, so we ask that you do not actively work
+to remove them from files, especially code. They're a great way for folks to
+learn about Font Awesome.
 
-You can change images inside the images\ folder.
-Make sure to name the file same as the original file.
-If you wish to change the name of the image file then you must
-also make corresponding change in the HTML file which refer to that image.
-
-How to use the template
------------------------
-Upload the contents to your webserver.
-index.html must be in the main (root) folder of your webserver.
-Do not change the name of the template folders or files unless you know
-what you are doing and are changing the names in HTML files too.
-For webhosting, you can go with https://templateflip.com/go/hosting for easy FTP file uploads.
-
+# Brand Icons
+All brand icons are trademarks of their respective owners. The use of these
+trademarks does not indicate endorsement of the trademark holder by Font
+Awesome, nor vice versa. **Please do not use brand logos for any purpose except
+to represent the company, product, or service to which they refer.**
